@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "Pails!"
+date:   2014-03-17 11:09:33
+categories: pails
+---
+
+I've been using PHP for years. I've seen good PHP, bad PHP, and ugly PHP. And
+written my fair share of each, too. I've also gotten paid to write ASP.NET
+Web Forms applications and Microsoft MVC apps, and dabled in Ruby on Rails.
+
+All of this has led me to start writing smarter PHP code, culminating in the
+realization that when you put the right patterns to use in the right places
+(which, done well, is only a few lines of code), each value-adding new feature
+should only take a few more lines of code.
+
+This is why Rails is so powerful and why Microsoft figured they'd better jump
+on the bandwagon.
+
+PHP developers tried, too, but everybody had their own idea for what a
+Rails-inspired MVC framework should look like. Some people tried a direct port of
+Rails to PHP, which is wrong because PHP is not Ruby and just can't do some of
+the things Rails does. Some tried to build an MVC framework that was all things
+to all people and subsequently are criticized as being bloated or clunky.
+
+[Pails][pails-gh] doesn't try to be any of that. Pails is Rails-inspired only in the sense
+that less is more, but strives first and foremost to be the smallest MVC
+framework for PHP. The *only* thing it does is force you to think in Models,
+Views, and Controllers, while still allowing you to use the full power of PHP.
+
+I use Pails for a couple projects at time of writing, and plan on using Pails
+for *everything* that runs on a web server moving forward, driven by my desire
+to spend less time writing code and more time building solutions that make a
+difference. If you feel the same way, check out pails and tell me how you like
+it.
+
+[pails-gh]: https://github.com/bparks/pails
