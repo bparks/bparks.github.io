@@ -1,0 +1,24 @@
+@import url(//fonts.googleapis.com/css?family=Merriweather:400,400italic,700,700italic);
+
+body
+{
+	background-color: #FFFFEE;
+}
+
+body, div, p, span, ul, ol, li, blockquote
+{
+	font-family: 'Merriweather', 'Garamond', 'Times New Roman', Times, serif;
+}
+
+p, ul, ol, li, blockquote
+{
+    line-height: 1.7em;
+}
+
+.field-textarea
+{
+	display: block;
+	float: none;
+	clear: both;
+	width: auto;
+}
