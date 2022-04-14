@@ -1,6 +1,9 @@
 name: Brian Parks
 markdown: redcarpet
 pygments: true
+plugins:
+  - jekyll-paginate
+paginate: 10
 defaults:
   - scope:
       path: ""
