@@ -51,3 +51,5 @@ mixture. Add all at once to dry ingredients and stir just until moist. Turn into
 loaf pan. Bake 60-70 minutes (it actually ended up being about 80 minutes here
 in CO) or until tester inserted in center comes out clean. Let cool 15 minutes
 before removing from pan.
+
+<small>NOTE: This blog is no longer built with PHP</small>
