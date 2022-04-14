@@ -5,5 +5,14 @@ layout: default
 <p class="meta">{{ page.date | date_to_string }}</p>
 
 <div class="post">
+    {% if page.photo %}
+        {% if page.thumbnail %}
+            <a href="/images/{{page.photo}}">
+                <img src="/images/{{page.thumbnail}}" align="right" border="0" />
+            </a>
+        {% else %}
+            <img src="/images/{{page.photo}}" align="right" border="0" />
+        {% endif %}
+    {% endif %}
 {{ content }}
 </div>
