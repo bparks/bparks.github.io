@@ -1,5 +1,5 @@
 ---
-title: Colorado: The Land of Opportunity
+title: Colorado - The Land of Opportunity
 ---
 
 It's been a while longer since I last wrote than I though thought it had been.
