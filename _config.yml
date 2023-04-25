@@ -1,5 +1,5 @@
 name: Brian Parks
-markdown: redcarpet
+markdown: kramdown
 pygments: true
 plugins:
   - jekyll-paginate
