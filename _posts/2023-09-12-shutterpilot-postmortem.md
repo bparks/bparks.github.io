@@ -1,5 +1,5 @@
 ---
-title: Postmortem: ShutterPilot
+title: "Postmortem: ShutterPilot"
 ---
 
 It's September 12th, and while I haven't _officially_ shut down the company, I
