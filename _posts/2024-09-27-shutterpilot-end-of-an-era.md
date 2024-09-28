@@ -2,9 +2,7 @@
 title: "ShutterPilot: The End of an Era"
 ---
 
-## TL;DR
-
-On October 31, 2024, ShutterPilot will cease operations. All photos that were sent
+(tl;dr) On October 31, 2024, ShutterPilot will cease operations. All photos that were sent
 with Photo Hub will be deleted and all the systems will be taken offline.
 
 It was a great run, but sadly it is no longer sustainable and it's time to pull the plug.
@@ -66,8 +64,8 @@ would no longer be using them. Pre-pandemic, _I_ had even considered building ph
 events, but the uncertainty of in-person events forced me to scrap that plan and focus on other things.
 
 ShutterPilot never recovered. The events landscape is very different now than it was in 2019 and the vision I had
-for ShutterPilot no longer aligns with the market and it no longer captures my attention like it did from 2016 to
-2019. On top of that, my last customer informed me they would not be renewing, so it's time to say goodbye
+for ShutterPilot no longer aligns with the market and it no longer captures my attention like it did from 2016 to 2019.
+On top of that, my last customer informed me they would not be renewing, so it's time to say goodbye
 to a chapter of my enterpreneurial journey. 
 
 ## And Now?
